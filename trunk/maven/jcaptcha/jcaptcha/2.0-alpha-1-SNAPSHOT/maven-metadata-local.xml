@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jcaptcha</groupId>
+  <artifactId>jcaptcha</artifactId>
+  <version>2.0-alpha-1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20100214225845</lastUpdated>
+  </versioning>
+</metadata>
